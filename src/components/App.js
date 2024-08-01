@@ -1,5 +1,10 @@
 import React from "react";
-
+import NavBar from "./NavBar";
+import Home from "./Home";
+import About from "./About"
+import { username } from "../data/user";
+import { city } from "../data/user";
+import { image } from "../data/user";
 function App() {
   return (
     <div>
